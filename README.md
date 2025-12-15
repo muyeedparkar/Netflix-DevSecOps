@@ -1,5 +1,5 @@
 
-  <div align="center"><h1>DevSecOps Project - Netflix</h1></div>
+# Deploying Netflix Clone With - DevSecOps
 
 
 <div align="center">
