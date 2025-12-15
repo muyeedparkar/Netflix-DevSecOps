@@ -1,5 +1,5 @@
 
-  # Deploying Netflix on Cloud - DevSecOps Project!
+  # DevSecOps Project - Netflix
 
 
 <div align="center">
