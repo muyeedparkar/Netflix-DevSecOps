@@ -1,4 +1,5 @@
-# Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
+
+# Deploy Netflix - DevSecOps Project!
 
 
 <div align="center">
