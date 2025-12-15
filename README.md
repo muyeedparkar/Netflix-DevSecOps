@@ -1,5 +1,5 @@
 
-  # DevSecOps Project - Netflix
+  <div align="center">DevSecOps Project - Netflix</div>
 
 
 <div align="center">
